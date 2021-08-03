@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+---
+layout: default
+---
+
+...
 <html style="font-size: 16px;">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
