@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-
-...
 <!DOCTYPE html>
 <html style="font-size: 16px;">
   <head>
