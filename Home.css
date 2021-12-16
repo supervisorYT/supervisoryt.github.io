@@ -6,12 +6,9 @@
   font-size: 3rem;
   letter-spacing: -3px;
   line-height: 1.2;
-  margin: 1px auto;
-}.u-section-2 {
+  margin: 2px auto 0;
+} .u-section-2 {
   background-image: none;
-}
-
-.u-section-2 .u-sheet-1 {
   min-height: 365px;
 }
 
@@ -100,8 +97,8 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 295px;
+   .u-section-2 {
+    min-height: 301px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
@@ -118,8 +115,8 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 218px;
+   .u-section-2 {
+    min-height: 231px;
   }
 
   .u-section-2 .u-layout-cell-1 {
@@ -168,8 +165,8 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 761px;
+   .u-section-2 {
+    min-height: 446px;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -188,18 +185,15 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 479px;
+   .u-section-2 {
+    min-height: 319px;
   }
 
   .u-section-2 .u-layout-cell-2 {
     min-height: 217px;
   }
-}.u-section-3 {
+} .u-section-3 {
   background-image: none;
-}
-
-.u-section-3 .u-sheet-1 {
   min-height: 376px;
 }
 
@@ -296,8 +290,8 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 330px;
+   .u-section-3 {
+    min-height: 313px;
   }
 
   .u-section-3 .u-layout-wrap-1 {
@@ -314,8 +308,8 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 253px;
+   .u-section-3 {
+    min-height: 243px;
   }
 
   .u-section-3 .u-image-1 {
@@ -359,8 +353,8 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 760px;
+   .u-section-3 {
+    min-height: 699px;
   }
 
   .u-section-3 .u-image-1 {
@@ -383,8 +377,8 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 478px;
+   .u-section-3 {
+    min-height: 445px;
   }
 
   .u-section-3 .u-image-1 {
@@ -394,7 +388,7 @@
   .u-section-3 .u-image-3 {
     min-height: 215px;
   }
-}.u-section-4 {
+} .u-section-4 {
   background-image: url("images/Windows8.jpg");
   background-position: 50% 50%;
 }
@@ -452,7 +446,7 @@
   .u-section-4 .u-video-1 {
     width: 340px;
   }
-}.u-section-5 {
+} .u-section-5 {
   background-image: url("images/encarta99_box_1024x1024.jpg");
   background-position: 50% 50%;
 }
@@ -474,7 +468,7 @@
   .u-section-5 .u-sheet-1 {
     min-height: 500px;
   }
-}.u-section-6 {
+} .u-section-6 {
   background-image: url("images/Fractal.png");
   background-position: 50% 50%;
 }
@@ -554,7 +548,7 @@
   .u-section-6 .u-text-4 {
     width: 340px;
   }
-}.u-section-7 {
+} .u-section-7 {
   background-image: url("images/WindowsNIT.png");
   background-position: 50% 50%;
 }
