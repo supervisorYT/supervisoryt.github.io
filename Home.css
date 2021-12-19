@@ -71,6 +71,7 @@
 .u-section-2 .u-group-2 {
   width: 365px;
   min-height: 288px;
+  height: auto;
   margin: 0 auto;
 }
 
@@ -111,6 +112,10 @@
 
   .u-section-2 .u-layout-cell-2 {
     min-height: 299px;
+  }
+
+  .u-section-2 .u-group-2 {
+    height: auto;
   }
 }
 
@@ -568,7 +573,7 @@
 
 .u-section-7 .u-text-2 {
   font-size: 1.875rem;
-  margin: 42px auto 60px;
+  margin: 43px 0 60px;
 }
 
 @media (max-width: 1199px) {
