@@ -334,7 +334,7 @@
 .u-section-8 .u-text-1 {
   line-height: 1.4;
   margin: 35px auto;
-}.u-section-9 .u-sheet-1 {
+} .u-section-9 {
   min-height: 156px;
 }
 
@@ -345,6 +345,36 @@
   text-transform: uppercase;
   font-size: 3rem;
   letter-spacing: 0px;
-  margin: 10px auto;
+  margin: 10px auto 10px calc(((100% - 2560px) / 2) + 853px);
   padding: 30px 19px 30px 18px;
+}
+
+@media (max-width: 1399px) {
+  .u-section-9 .u-btn-1 {
+    margin-left: calc(((100% - 1399px) / 2));
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 .u-btn-1 {
+    margin-left: calc(((100% - 1199px) / 2));
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-9 .u-btn-1 {
+    margin-left: calc(((100% - 991px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-9 .u-btn-1 {
+    margin-left: calc(((100% - 767px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-9 .u-btn-1 {
+    margin-left: calc(((100% - 575px) / 2));
+  }
 }
