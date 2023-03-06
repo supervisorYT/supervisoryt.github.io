@@ -91,10 +91,6 @@
   .u-section-1 .u-layout-cell-2 {
     min-height: 129px;
   }
-
-  .u-section-1 .u-icon-4 {
-    color: rgb(0, 0, 0) !important;
-  }
 }
 
 @media (max-width: 1199px) {
